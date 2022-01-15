@@ -1,0 +1,25 @@
+.Home {
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.Welcome {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    font-weight:550;
+}
+
+.Products {    
+    align-items: center;
+    background: #00d7c8;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 200;
+    border:none
+}

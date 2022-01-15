@@ -1,0 +1,17 @@
+.Header {
+    display: flex;
+    flex-direction: row;
+    background-color: #4b6efa;
+    color: #fff;
+}
+
+.Header {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.Left {
+    flex-grow: 10;
+}
+

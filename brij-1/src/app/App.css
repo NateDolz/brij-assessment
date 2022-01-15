@@ -1,0 +1,20 @@
+.App {
+  height: 100%;
+  text-align: center;
+}
+
+.Link {
+  cursor: pointer;
+  padding: 1em;
+  text-decoration: underline;  
+}
+
+.Pill-Button {
+  border: none;
+  border-radius: 40px;
+  padding: 10px 20px;
+}
+
+.Icon {
+  padding: 10px 20px; 
+}

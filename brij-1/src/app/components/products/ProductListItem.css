@@ -1,0 +1,29 @@
+.Product-Overview {
+    padding: 1em;
+    margin: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.Product-Overview-Item {
+    padding: 1em;
+}
+
+.Product-Overview-Brand {
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: 100;
+}
+
+.Product-Overview-Image {
+    height: 250px;
+    width: 150px;
+}
+
+.Product-Overview-Name {
+    font-size: 15px;
+    text-decoration: underline;
+}
